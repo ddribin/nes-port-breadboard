@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L nes-breadboard:NES_Port_Male J2
+L nes-port-breadboard:NES_Port_Male J2
 U 1 1 60C605E6
 P 5350 3250
 F 0 "J2" H 5350 3648 50  0000 C CNN
 F 1 "NES_Port_Male" H 5350 3557 50  0000 C CNN
-F 2 "nes-breadboard:NES_Port_Male_Horizontal" H 5350 3250 50  0001 C CNN
+F 2 "nes-port-breadboard:NES_Port_Male_Horizontal" H 5350 3250 50  0001 C CNN
 F 3 "" H 5350 3250 50  0001 C CNN
 	1    5350 3250
 	1    0    0    -1  

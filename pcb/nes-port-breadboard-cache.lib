@@ -30,11 +30,11 @@ X Pin_7 7 -200 -300 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# nes-breadboard_NES_Port_Male
+# nes-port-breadboard_NES_Port_Male
 #
-DEF nes-breadboard_NES_Port_Male J 0 40 Y Y 1 F N
+DEF nes-port-breadboard_NES_Port_Male J 0 40 Y Y 1 F N
 F0 "J" 0 -275 50 H V C CNN
-F1 "nes-breadboard_NES_Port_Male" 25 300 50 H V C CNN
+F1 "nes-port-breadboard_NES_Port_Male" 25 300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
