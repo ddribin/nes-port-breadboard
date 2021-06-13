@@ -11,11 +11,11 @@
 
   (page USLetter)
   (title_block
-    (title "NES Connector Breadboard Adapter")
+    (title "NES Port Breadboard Adapter")
     (date 2021-06-09)
-    (rev A)
+    (rev 1)
     (comment 2 creativecommons.org/licenses/by/4.0/)
-    (comment 3 "License: CC BY 4.0")
+    (comment 3 "MIT License")
     (comment 4 "Author: Dave Dribin")
   )
 
