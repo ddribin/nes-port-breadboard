@@ -17,8 +17,8 @@ $Comp
 L nes-port-breadboard:NES_Port_Male J1
 U 1 1 60C605E6
 P 5350 3250
-F 0 "J1" H 5350 3648 50  0000 C CNN
-F 1 "NES_Port_Male" H 5350 3557 50  0000 C CNN
+F 0 "J1" H 5350 3700 50  0000 C CNN
+F 1 "NES_Port_Male" H 5350 3600 50  0000 C CNN
 F 2 "nes-port-breadboard:NES_Port_Male_Horizontal" H 5350 3250 50  0001 C CNN
 F 3 "" H 5350 3250 50  0001 C CNN
 	1    5350 3250
