@@ -1,6 +1,6 @@
 # NES Port Breadboard Adapter
 
-A breadboard adapter for a console-side (male) NES port, specifically the [Raphnet right-angle NES controller connector](1).
+A breadboard adapter for a console-side (male) NES port, specifically the [Raphnet right-angle NES controller connector][1].
 
 Top of PCB:
 ![Top of PCB](images/pcb-top.png)
