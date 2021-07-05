@@ -5,8 +5,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "NES Port Breadboard Adapter"
-Date "2021-06-09"
-Rev "1.0"
+Date "2021-07-04"
+Rev "1.0.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -61,4 +61,26 @@ Wire Wire Line
 	5800 3200 5800 3700
 Wire Wire Line
 	5800 3700 4900 3700
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 60E147EE
+P 5000 4000
+F 0 "H1" H 5100 4046 50  0000 L CNN
+F 1 "MountingHole" H 5100 3955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 5000 4000 50  0001 C CNN
+F 3 "~" H 5000 4000 50  0001 C CNN
+	1    5000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60E14FCE
+P 5000 4250
+F 0 "H2" H 5100 4296 50  0000 L CNN
+F 1 "MountingHole" H 5100 4205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 5000 4250 50  0001 C CNN
+F 3 "~" H 5000 4250 50  0001 C CNN
+	1    5000 4250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
