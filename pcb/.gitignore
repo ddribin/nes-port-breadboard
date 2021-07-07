@@ -1,4 +1,11 @@
+# Exported Gerber and drill files
 gerbers/
+
+# Exported PDF files
+*.pdf
+
+# THe rest of this is from:
+# https://github.com/github/gitignore/blob/master/KiCad.gitignore
 
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
